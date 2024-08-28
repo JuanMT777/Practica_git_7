@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\Guest\\Desktop\\Practica 5",
+			"problemMatcher": [],
+			"label": "Live Preview: Ejecutar servidor",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
